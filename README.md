@@ -1,4 +1,4 @@
-# UOTSCS-Assignment19-Budget-Tracker
+#Budget-Tracker
 
 ## Description:
 The Budget Tracker application allows for the tracking of funds added or subtracted from a budget. It has inputs for a transaction name and transaction amount with add or subtract funds input selectors. An entry history is displayed along with a graphical representation of the budget transactions entered.
